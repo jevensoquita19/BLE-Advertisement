@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:17:1-49:12
+INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:17:1-49:12
+INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:17:1-49:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\783a2b26c64f839930b15d674c19df5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\f65fc5680ff4ab22503b64b96abb6dd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\6a3a5af2700abc505a695a602322a4e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\792516c9d19e96144e618565b0777a5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\f418e11f9fb0dc25ddd85877ab363ca5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\68dc44b6e1cec5216385f62805a3c975\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\13bfab9dc6ab85bbb65657a5271a216c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\56205f9fea680346fa7934512bc755e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\7a2aa5e441e7937e8d4b02d306a6ed74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\410890cd14c0368e951d3fec962aeb54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\eeb7c287b9476b4068bc395ba38d1d1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\ecf86b9b48de2d1fae0c4a7babb27a79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\c34d78ed32c0cc77746cb005cabf099d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\58755d9832898ff00bf669467a2c2d7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\d30e82d3699387008afcfb93aeb3b969\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\a3da0d5e50955e35ca530f8b6e93dcf7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\541e454d24be5293a67f6026aa8329fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\12cc96b3a0e1850a8a8d1b8feff61912\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\fb20427944dcb79a8a520a9375ae2f7d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\9c40a2b81500bddb6197a7141aa6f6e1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\9954da9d9d24b921a01152406bff2149\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\938537d4d861f451d166c6dac743fe2f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\c6556b99180109cf11f270fb3728a535\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\a720e9dbf38f0846b47e5b137af5b6b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\bcd55a1587f352fbe5e0e7f6c715f798\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\dcddaf14e11f22dd3b130d1e0458e9ae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\3af91d74c28fe2fc0c5b012b98bfc2b4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\6d4cf893b37f889e20f05d2cdd288666\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\a124d18253db055683ff89531bd81905\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\e4fab1394c6a652ff50cd20f01ca20b3\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:17:1-49:12
+INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:17:1-49:12
+	package
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:18:5-58
+	android:versionName
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:22:5-74
+	android:name
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:22:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:24:5-76
+	android:name
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:24:22-74
+application
+ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:26:5-47:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\fb20427944dcb79a8a520a9375ae2f7d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\fb20427944dcb79a8a520a9375ae2f7d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\9c40a2b81500bddb6197a7141aa6f6e1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\9c40a2b81500bddb6197a7141aa6f6e1\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\fb20427944dcb79a8a520a9375ae2f7d\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:30:9-40
+activity#com.example.android.bluetoothadvertisements.MainActivity
+ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:31:9-38:20
+	android:label
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:32:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:36:27-74
+service#com.example.android.bluetoothadvertisements.AdvertiserService
+ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:42:9-46:19
+	android:enabled
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:44:13-35
+	android:exported
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:43:13-46
+uses-sdk
+INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\783a2b26c64f839930b15d674c19df5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\783a2b26c64f839930b15d674c19df5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\f65fc5680ff4ab22503b64b96abb6dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\f65fc5680ff4ab22503b64b96abb6dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\6a3a5af2700abc505a695a602322a4e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\6a3a5af2700abc505a695a602322a4e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\792516c9d19e96144e618565b0777a5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\792516c9d19e96144e618565b0777a5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\f418e11f9fb0dc25ddd85877ab363ca5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\f418e11f9fb0dc25ddd85877ab363ca5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\68dc44b6e1cec5216385f62805a3c975\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\68dc44b6e1cec5216385f62805a3c975\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\13bfab9dc6ab85bbb65657a5271a216c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\13bfab9dc6ab85bbb65657a5271a216c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\56205f9fea680346fa7934512bc755e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\56205f9fea680346fa7934512bc755e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\7a2aa5e441e7937e8d4b02d306a6ed74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\7a2aa5e441e7937e8d4b02d306a6ed74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\410890cd14c0368e951d3fec962aeb54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\410890cd14c0368e951d3fec962aeb54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\eeb7c287b9476b4068bc395ba38d1d1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\eeb7c287b9476b4068bc395ba38d1d1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\ecf86b9b48de2d1fae0c4a7babb27a79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\ecf86b9b48de2d1fae0c4a7babb27a79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\c34d78ed32c0cc77746cb005cabf099d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\c34d78ed32c0cc77746cb005cabf099d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\58755d9832898ff00bf669467a2c2d7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\58755d9832898ff00bf669467a2c2d7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\d30e82d3699387008afcfb93aeb3b969\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\d30e82d3699387008afcfb93aeb3b969\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\a3da0d5e50955e35ca530f8b6e93dcf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\a3da0d5e50955e35ca530f8b6e93dcf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\541e454d24be5293a67f6026aa8329fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\541e454d24be5293a67f6026aa8329fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\12cc96b3a0e1850a8a8d1b8feff61912\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\12cc96b3a0e1850a8a8d1b8feff61912\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\fb20427944dcb79a8a520a9375ae2f7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\fb20427944dcb79a8a520a9375ae2f7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\9c40a2b81500bddb6197a7141aa6f6e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\9c40a2b81500bddb6197a7141aa6f6e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\9954da9d9d24b921a01152406bff2149\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\9954da9d9d24b921a01152406bff2149\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\938537d4d861f451d166c6dac743fe2f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\938537d4d861f451d166c6dac743fe2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\c6556b99180109cf11f270fb3728a535\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\c6556b99180109cf11f270fb3728a535\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\a720e9dbf38f0846b47e5b137af5b6b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\a720e9dbf38f0846b47e5b137af5b6b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\bcd55a1587f352fbe5e0e7f6c715f798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\bcd55a1587f352fbe5e0e7f6c715f798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\dcddaf14e11f22dd3b130d1e0458e9ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\dcddaf14e11f22dd3b130d1e0458e9ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\3af91d74c28fe2fc0c5b012b98bfc2b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\3af91d74c28fe2fc0c5b012b98bfc2b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\6d4cf893b37f889e20f05d2cdd288666\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\6d4cf893b37f889e20f05d2cdd288666\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\a124d18253db055683ff89531bd81905\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\a124d18253db055683ff89531bd81905\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\e4fab1394c6a652ff50cd20f01ca20b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jsoquita\.gradle\caches\transforms-2\files-2.1\e4fab1394c6a652ff50cd20f01ca20b3\AndroidManifest.xml:20:5-44
+INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Yondu\2020 Projects\Jeremy BLE\connectivity-samples\BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
